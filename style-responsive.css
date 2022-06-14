@@ -1,7 +1,0 @@
-@media (max-width: 1024px) {
-    .header {
-        flex-direction:row;
-        width: 90%;
-        height: 320px;
-    }
-}
