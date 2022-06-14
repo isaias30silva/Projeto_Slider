@@ -5,13 +5,3 @@
         height: 320px;
     }
 }
-
-
-@media (max-width: 650px) {
-    .header {
-        flex-direction:column;
-        width: 100%;
-        padding: 10px;
-        height: 590px;
-    }
-}
